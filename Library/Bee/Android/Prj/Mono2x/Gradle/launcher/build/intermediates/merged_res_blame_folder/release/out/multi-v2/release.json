@@ -1,0 +1,92 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.DefaultCompany.Foxrun2D.launcher-merged_res-5:/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/nguyenhuynh/Fox run 2D/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/packaged_res/release/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,101,158,214,263,309,356,448,591",
+                        "endLines": "2,3,4,5,6,7,8,11,15",
+                        "endColumns": "45,56,55,48,45,46,91,10,10",
+                        "endOffsets": "96,153,209,258,304,351,443,586,815"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,10,11,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,101,158,214,263,309,472,564,707",
+                        "endLines": "2,3,4,5,6,7,10,13,17",
+                        "endColumns": "45,56,55,48,45,46,91,10,10",
+                        "endOffsets": "96,153,209,258,304,351,559,702,931"
+                    }
+                },
+                {
+                    "source": "/Users/nguyenhuynh/Fox run 2D/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "2,2",
+                        "startOffsets": "53,99",
+                        "endColumns": "45,65",
+                        "endOffsets": "96,162"
+                    },
+                    "to": {
+                        "startLines": "8,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "356,404",
+                        "endColumns": "47,67",
+                        "endOffsets": "399,467"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.DefaultCompany.Foxrun2D.launcher-merged_res-5:/values-v28_values-v28.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/nguyenhuynh/Fox run 2D/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/packaged_res/release/values-v28/values-v28.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "10",
+                        "endOffsets": "231"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.DefaultCompany.Foxrun2D.launcher-merged_res-5:/values-v21_values-v21.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/nguyenhuynh/Fox run 2D/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/packaged_res/release/values-v21/values-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "3",
+                        "endColumns": "10",
+                        "endOffsets": "156"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.DefaultCompany.Foxrun2D.launcher-merged_res-5:/values-v30_values-v30.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/nguyenhuynh/Fox run 2D/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/packaged_res/release/values-v30/values-v30.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,129,201,266,325",
+                        "endColumns": "73,71,64,58,60",
+                        "endOffsets": "124,196,261,320,381"
+                    }
+                }
+            ]
+        }
+    ]
+}
