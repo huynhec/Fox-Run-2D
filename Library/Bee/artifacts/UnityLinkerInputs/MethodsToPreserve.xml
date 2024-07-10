@@ -1,0 +1,30 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="GameManager">
+			<method name="Restart"/>
+		</type>
+		<type fullname="MainMenu">
+			<method name="ExitGame"/>
+			<method name="HomeGame"/>
+			<method name="PlayGame"/>
+		</type>
+		<type fullname="Player">
+			<method name="Again"/>
+		</type>
+		<type fullname="SoundManager">
+			<method name="ChangeVolume"/>
+		</type>
+	</assembly>
+	<assembly fullname="UnityEngine.CoreModule" ignoreIfMissing="1">
+		<type fullname="UnityEngine.GameObject">
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+		</type>
+	</assembly>
+</linker>
