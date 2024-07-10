@@ -1,0 +1,4 @@
+/Applications/Unity/Hub/Editor/2023.2.0a7/PlaybackEngines/AndroidPlayer/SDK/cmake/3.22.1/bin/ninja \
+  -C \
+  "/Users/nguyenhuynh/Fox run 2D/.utmp/RelWithDebInfo/1c1d551k/armeabi-v7a" \
+  swappywrapper

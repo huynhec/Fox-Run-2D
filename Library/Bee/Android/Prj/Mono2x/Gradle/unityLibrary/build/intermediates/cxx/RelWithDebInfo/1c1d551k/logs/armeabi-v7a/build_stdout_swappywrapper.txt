@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/nguyenhuynh/Fox run 2D/.utmp/RelWithDebInfo/1c1d551k/armeabi-v7a'
+ninja: no work to do.
