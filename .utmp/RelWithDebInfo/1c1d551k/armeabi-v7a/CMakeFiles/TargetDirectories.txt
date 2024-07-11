@@ -1,0 +1,5 @@
+/Users/nguyenhuynh/Fox run 2D/.utmp/RelWithDebInfo/1c1d551k/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/nguyenhuynh/Fox run 2D/.utmp/RelWithDebInfo/1c1d551k/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/nguyenhuynh/Fox run 2D/.utmp/RelWithDebInfo/1c1d551k/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+/Users/nguyenhuynh/Fox run 2D/.utmp/RelWithDebInfo/1c1d551k/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+/Users/nguyenhuynh/Fox run 2D/.utmp/RelWithDebInfo/1c1d551k/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir
